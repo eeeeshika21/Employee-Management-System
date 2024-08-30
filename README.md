@@ -82,6 +82,6 @@ employeemanagementsystem
 
 Use the built-in Spring Boot features to run the application directly from the IDE.
 
-4. **Access the application**:
+3. **Access the application**:
 
 The REST API will be available at http://localhost:8080/.
