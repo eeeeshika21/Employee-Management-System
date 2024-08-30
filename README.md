@@ -85,3 +85,15 @@ Use the built-in Spring Boot features to run the application directly from the I
 3. **Access the application**:
 
 The REST API will be available at http://localhost:8080/.
+
+### Screenshots:
+![image](https://github.com/user-attachments/assets/030bc640-78dc-4f81-a394-0221898388a1)
+![image](https://github.com/user-attachments/assets/c0f1281a-7e16-433c-8ef4-946b26e2d365)
+![image](https://github.com/user-attachments/assets/abdf7e5b-4b33-4ac9-bc4f-1a4b95c71f40)
+![image](https://github.com/user-attachments/assets/c801548f-5396-41e3-9c33-0316f8645a05)
+![image](https://github.com/user-attachments/assets/613a7447-14e1-40e9-bdd9-b2f4a8915483)
+
+
+
+
+
