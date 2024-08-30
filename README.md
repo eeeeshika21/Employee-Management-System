@@ -76,12 +76,12 @@ employeemanagementsystem
    ```bash
    git clone https://github.com/yourusername/employee-management-system.git
    cd employee-management-system
-2.Open the project in Visual Studio Code.
+2. **Open the project in Visual Studio Code**.
 
-3.Run the project:
+   Run the project:
 
 Use the built-in Spring Boot features to run the application directly from the IDE.
 
-4.Access the application:
+4. **Access the application**:
 
 The REST API will be available at http://localhost:8080/.
