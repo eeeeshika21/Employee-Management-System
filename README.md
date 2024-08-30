@@ -74,7 +74,7 @@ employeemanagementsystem
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/eeeeshika21/Employee-Management-System.git
    cd employee-management-system
 2. **Open the project in Visual Studio Code**.
 
